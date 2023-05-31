@@ -1,1 +1,2 @@
-The school is open!
+ #!/bin/bash
+iecho "The school is open!
